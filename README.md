@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **@tongshengw**
 - 👀 I’m interested in **backend development, computer graphics, and machine learning**
 - 🌱 I’m currently learning **Tensorflow, React, and SFML**
-- 💞️ I’m looking to collaborate on **A new game**
-- 📫 How to reach me **tongshengwu0@gmail.com**
+- 💞️ I’m looking to collaborate on **a new game**
+- 📫 How to reach me **tongshengwu0@gmail.com, tongsheng_w (instagram)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Ask me about macarons!**
 
