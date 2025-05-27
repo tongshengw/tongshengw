@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@tongshengw**
 - 👀 I’m interested in **backend development, cloud infra, and open source**
-- 🌱 I’m currently working on **Ultra-cheap open source cloud**
+- 🌱 I’m currently working on **open source cloud compute**
 - 📫 How to reach me **tongshengwu0@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Love badminton!**
